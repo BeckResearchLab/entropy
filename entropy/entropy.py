@@ -4,8 +4,6 @@ Compute the entropy in bits of a list of probabilities.
 
 import numpy as np
 
-beep blorp snurf
-
 def entropy(ps):
     """
     Compute the entropy in bits of a list of probabilities.
